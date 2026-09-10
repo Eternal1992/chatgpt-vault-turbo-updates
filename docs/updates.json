@@ -3,10 +3,10 @@
     "chatgpt-vault-turbo@eternal.local": {
       "updates": [
         {
-          "version": "0.4.0",
-          "update_link": "https://eternal1992.github.io/chatgpt-vault-turbo-updates/releases/chatgpt-vault-turbo-0.4.0.xpi",
-          "update_hash": "sha256:49ec447c75e3014cde313bc6c4504e6b1019605d3b0d3acffcbb9feba662e476",
-          "update_info_url": "https://eternal1992.github.io/chatgpt-vault-turbo-updates/release-notes/0.4.0.html",
+          "version": "0.4.1",
+          "update_link": "https://eternal1992.github.io/chatgpt-vault-turbo-updates/releases/chatgpt-vault-turbo-0.4.1.xpi",
+          "update_hash": "sha256:afa43e254afbb375a7c408b09f55c5924b0320fc86f9b8a3b53fa8d0adb7ddfe",
+          "update_info_url": "https://eternal1992.github.io/chatgpt-vault-turbo-updates/release-notes/0.4.1.html",
           "applications": {
             "gecko": {
               "strict_min_version": "121.0"
